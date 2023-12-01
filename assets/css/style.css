@@ -917,46 +917,6 @@ section .container {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-form {
-    display: flex;
-    flex-direction: column;
-}
-
-label {
-    margin-bottom: 8px;
-}
-
-input, textarea {
-    padding: 10px;
-    margin-bottom: 16px;
-    border: 1px solid #888;
-    border-radius: 5px;
-    transition: border-color 0.3s;
-}
-
-input:hover, textarea:hover {
-    border-color: #555;
-}
-
-input:focus, textarea:focus {
-    outline: none;
-    border-color: #2ecc71;
-}
-
-button {
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    background-color: #2ecc71;
-    color: #fff;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-button:hover {
-    background-color: #27ae60;
-}
-
 .contact .info-box {
     color: #444444;
     padding: 20px;
