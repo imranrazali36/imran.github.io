@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer</h3>
 
 # 💫 About Me:
-https://imranrazali36.github.io/imran.github.io/<br><br>🔭 I’m currently working on my portfolio website. The programming includes:<br><br>- JavaScript<br>- CSS<br>- HTML<br><br>⚡ Here are some of the features included in my portfolio website:<br><br>- Fully Responsive<br>- Valid HTML5 & CSS3<br>- Typing animation using Typed.js<br>- Easy to modify<br><br>💬 Contact Me<br><br>- imranrazali36@gmail.com
+https://imranrazali36.github.io/Portfolio/<br><br>🔭 I’m currently working on my portfolio website. The programming includes:<br><br>- JavaScript<br>- CSS<br>- HTML<br><br>⚡ Here are some of the features included in my portfolio website:<br><br>- Fully Responsive<br>- Valid HTML5 & CSS3<br>- Typing animation using Typed.js<br>- Easy to modify<br><br>💬 Contact Me<br><br>- imranrazali36@gmail.com
 
 
 ## 🌐 Socials:
